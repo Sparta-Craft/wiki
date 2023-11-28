@@ -101,6 +101,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "Rules":
+    - "/server-rules"
   "Get Support":
     - "https://discord.gg/H9VNKH9tJC"
 
@@ -148,6 +150,12 @@ callouts:
   warning:
     title: Warning
     color: red
+  info:
+    title: INFO
+    color: green
+  discord:
+    title: CONTACT
+    color: blue
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")

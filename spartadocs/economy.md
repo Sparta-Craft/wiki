@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Welcome
-nav_order: 1
-description: "Home page spartacraft documentation"
-permalink: /
+title: Economy
+nav_order: 3
+description: "Economy Server"
+permalink: /economy
 ---
 
-# SpartaCraft Documentation
+# Economy
 {: .fs-9 }
 
 ---
 
-{: .new }
+{: .warning }
 > Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
 
 ## How to join SpartaCraft

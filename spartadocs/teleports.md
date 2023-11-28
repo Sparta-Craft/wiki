@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Welcome
-nav_order: 1
-description: "Home page spartacraft documentation"
-permalink: /
+title: Teleports
+nav_order: 9
+description: "How to teleport"
+permalink: /teleports
 ---
 
-# SpartaCraft Documentation
+# How to teleport
 {: .fs-9 }
 
 ---
 
-{: .new }
+{: .warning }
 > Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
 
 ## How to join SpartaCraft

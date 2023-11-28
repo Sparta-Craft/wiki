@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Welcome
-nav_order: 1
-description: "Home page spartacraft documentation"
-permalink: /
+title: Nation Guide
+nav_order: 7
+description: "Nation Guide"
+permalink: /nation-guide
 ---
 
-# SpartaCraft Documentation
+# Nation
 {: .fs-9 }
 
 ---
 
-{: .new }
+{: .warning }
 > Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
 
 ## How to join SpartaCraft

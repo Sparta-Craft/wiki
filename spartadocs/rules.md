@@ -1,0 +1,139 @@
+---
+layout: default
+title: Rules
+description: "Server Rules"
+permalink: /server-rules
+nav_exclude: true
+---
+
+# Server Rules
+{: .fs-9 }
+
+---
+
+{: .info }
+> Welcome to the rules page! Server rules are needed to ensure a fun and fair gameplay experience for everyone. Feel free to contact staff if you have any questions about the rules.
+
+## 1. Cheating, server exploits and alternative accounts
+### 1.1 Cheat clients and other modifications
+
+Cheat clients, macro keys and other modifications which give the player gameplay leverage over other players are not allowed. Players found breaking this rule will face a permanent ban, and yes, permanent means permanent.
+
+This rule does not apply to:
+- OptiFine and other performance improvement mods.
+- Armor and effect status HUD mods.
+- Minimap mods unless they display more information than our Dynmap provides.
+- Purely aesthetic mods.
+- Litematica without printer function (Schematica is not allowed however).
+
+### 1.2 Knowingly benefiting from or assisting others in breaking server rules
+
+Players found intentionally assisting in, knowingly participating in, or knowingly benefitting from other players breaking any of the rules listed on this page may be treated as if they committed the act themselves.
+
+### 1.3 Technical errors and server exploits
+
+Players are not allowed to take advantage of apparent server bugs or otherwise exploit technical oversights. Players found taking advantage bugs or technical oversights without notifying staff may be permanently banned.
+
+### 1.4 Alternative accounts
+
+Alternative accounts or “alts” for short are not allowed. You may only use one account per player. Alternative accounts will be banned and the player’s main account may be warned if this rule is deliberately broken. A second instance of violating this rule would result in the player's main account banned as well. Please contact server staff if you wish to switch your main account.
+
+### 1.5 Intentionally causing lag or disrupting services
+
+Players intentionally causing harm to the services we provide may be permanently banned.
+
+---
+
+## 2. Behavior and chat
+### 2.1 Naming
+
+Town & Nation's names cannot be inappropriate, toxic, or offensive.
+
+Account usernames, nicknames, skins and Towny titles must not be explicit, sexual or otherwise inappropriate.
+
+### 2.2 Stealing and raiding players/towns/nations
+
+Raiding and stealing from other players is allowed. It’s up to each and every player to protect their assets. (Traps are allowed)
+
+### 2.3 Spam
+
+Spamming or sending messages in a way that disrupts chat flow, normally by sending a similar message repeatedly, is not allowed.
+
+### 2.4 Unwanted behavior
+
+Listed unwanted behavior is not allowed on the server. Unwanted behavior includes:
+
+- Explicit forms of bullying.
+- Repetitive use of derogatory terms.
+- Comments encouraging self-harm.
+- Inciting violence or explicit forms of hate speech against racial and social minorities.
+- Explicit talk about sex.
+
+Toxicity is evaluated on a case by case basis and staff has final say in what is considered toxic behavior. Repeated behavior may lead to warnings, mutes and eventually a permanent ban.
+
+### 2.5 Impersonating other players, towns and nations
+
+Impersonating players by taking advantage of, but not limited to, usernames, nicknames, town/nation names is not allowed. Offenders will be asked to revert to their proper character. If any damage is done staff may choose to ban the offending player.
+
+### 2.6 AFK time
+
+You are not allowed to be AFK more than 10 minutes, if you are found using a method of circumventing the auto-kicking staff will take action.
+
+### 2.7 Sharing personal information
+
+Sharing personal information and identities of others without their explicit permission is strictly forbidden. Personal information may be, but not limited to, full names, “real life” photos of players, phone numbers, home addresses, social networks, school/work location, family relations and IP addresses.
+
+It is also not allowed to leverage others personal information in a threathening or manipulative way.
+
+### 2.8 Sharing links
+
+Malicious links are not allowed, this includes for instance viruses or IP loggers. Links which contribute to breaking any of the rules listed on this page are not allowed. This includes sending links to other players in Discord for instance as well.
+
+Linking to sexual or extremely violent/disturbing content is not allowed. Other links are allowed, although they may get caught by the spam filter.
+
+### 2.9 Advertising
+
+Advertising is not allowed unless it’s related to the server.
+
+### 2.10 Selling content and services for real money
+
+You are not allowed to sell in-game items or services for real life money, or vice versa.
+
+### 2.11 Language in global chat channels
+
+When speaking in either the global chat or the donator chat channel you should stick to English only. You can use other private chat channels for other languages such as town chat or private messages. If there are only or almost only players who also speak your language online you are allowed to speak it in the global channels too.
+
+---
+
+## 3. Griefing
+### 3.1 Destroying land in or around claims
+
+Players may not damage land in or around claims (griefing). Players breaking this rule will be warned and damage will be rolled back. Players doing this more than once may face a permanent ban. 
+
+***Examples of grief (but not limited to):***
+- Cobble monsters – Mountain-like structures that are built using lava and water.
+- Lava/water curtains – Placing rows of lava/water in the sky to make a wall of falling lava.
+- TNT craters.
+- Mass spawning entities within or around a town (chickens, boats, etc.).
+
+### 3.2 Destroying land in wilderness
+
+Wilderness is defined by Towny as any land not currently claimed. You are allowed to grief structures or terrain as long as they are not within or in close proximity to a claimed area. However, any player may request major terrain grief to be rolled back even in the wilderness.
+
+Breaking railways or ice roads is not allowed even in the wilderness, if willingly connecting two existing towns. This does not only apply to the rails but all blocks the railroad is made of.
+
+### 3.3 Town claims
+
+Towns claiming in a way to restrict the ability of neighboring towns to expand, referred to as claim blocking, is not allowed.
+
+Creating claim arms extending from towns is not allowed. These are protrusions which are often used to block the settlement and expansion of other towns or just artificially expand the area a town controls without the need to claim all of it.
+
+Towns are not allowed to have areas of unclaimed chunks inside of their borders, as this can substantially increase the size of a town without them actually having to increase their claim limit legitimately.
+
+Towns which are clearly created for no other reason than with the intent to block an existing town will also be removed.
+
+{: .discord }
+If you have any questions about the rules you can contact our support in our [Discord] server.
+
+[Discord]: https://discord.gg/H9VNKH9tJC
+
