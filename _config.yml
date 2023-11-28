@@ -102,7 +102,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Discord":
-    - "https://github.com/just-the-docs/just-the-docs"
+    - "https://discord.gg/H9VNKH9tJC"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
