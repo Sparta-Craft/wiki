@@ -3,7 +3,7 @@ layout: default
 title: Economy
 nav_order: 3
 description: "Economy Server"
-permalink: /economy
+permalink: economy
 ---
 
 # Economy

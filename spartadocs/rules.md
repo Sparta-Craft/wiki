@@ -2,7 +2,7 @@
 layout: default
 title: Rules
 description: "Server Rules"
-permalink: /server-rules
+permalink: server-rules
 nav_exclude: true
 ---
 

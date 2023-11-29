@@ -3,7 +3,7 @@ layout: default
 title: Live Map
 nav_order: 2
 description: "Live Map"
-permalink: /map
+permalink: map
 ---
 
 # Live Map

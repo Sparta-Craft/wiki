@@ -3,7 +3,7 @@ layout: default
 title: Skills
 nav_order: 10
 description: "Skills"
-permalink: /skills
+permalink: skills
 ---
 
 # Special Skills

@@ -3,7 +3,7 @@ layout: default
 title: Town Guide
 nav_order: 5
 description: "Town Guide"
-permalink: /town-guide
+permalink: town-guide
 ---
 
 # Town Guide

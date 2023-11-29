@@ -3,7 +3,7 @@ layout: default
 title: Shops
 nav_order: 8
 description: "How to make a shop"
-permalink: /shops
+permalink: shops
 ---
 
 # How to make a shop

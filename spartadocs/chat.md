@@ -3,7 +3,7 @@ layout: default
 title: Chat
 nav_order: 4
 description: "Chat"
-permalink: /chat
+permalink: chat
 ---
 
 # Chat

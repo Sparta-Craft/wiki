@@ -3,7 +3,7 @@ layout: default
 title: Premium
 nav_order: 11
 description: "Premium"
-permalink: /premium
+permalink: premium
 ---
 
 # Premium

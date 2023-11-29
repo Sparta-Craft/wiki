@@ -3,7 +3,7 @@ layout: default
 title: Teleports
 nav_order: 9
 description: "How to teleport"
-permalink: /teleports
+permalink: teleports
 ---
 
 # How to teleport

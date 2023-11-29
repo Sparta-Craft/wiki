@@ -3,7 +3,7 @@ layout: default
 title: Nation Guide
 nav_order: 7
 description: "Nation Guide"
-permalink: /nation-guide
+permalink: nation-guide
 ---
 
 # Nation

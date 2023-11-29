@@ -3,7 +3,7 @@ layout: default
 title: Frequently Asked Questions
 nav_order: 12
 description: "Frequently asked questions"
-permalink: /faq
+permalink: faq
 ---
 
 # Frequently Asked Questions

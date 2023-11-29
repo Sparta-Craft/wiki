@@ -3,7 +3,7 @@ layout: default
 title: Claiming Land
 nav_order: 6
 description: "Claiming Land"
-permalink: /claiming-land
+permalink: claiming-land
 ---
 
 # Claiming Land
