@@ -9,28 +9,61 @@ permalink: chat
 # Chat
 {: .fs-9 }
 
----
+## Channels
 
-{: .warning }
-> Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
+The chat is divided into channels, and you decide which ones to display. All channels you have permission to view are active by default. Check which channels you are currently in with the command `/ch list`. Leave the channels you do not wish to participate in with `/ch leave [channel]`. To write in a specific channel, for example town chat, run `/ch join town`. The default write channel is global. Stick to English when writing in global chat so everyone can understand.
 
-## How to join SpartaCraft
+### List of channels
 
-Here you can find SpartaCraft server documentation, the most useful commands and a guide on how to get started on the server, on the left you will find an index where you can click to see more information.
+| Channel      | Description       | 
+|:-------------|:------------------|
+| /global      | General chat, where everyone talks English |
+| /local       | Only players in specified promixity can hear you   |
+| /trade       | Trading stuff, e.g. selling or buying announcements      |
+| /vc or /vipchat | Special chat, exclusive for Premium players |
+| /tc or /townchat | Channel for town members |
+| /nc or /nationchat | Channel for nation members |
+| /[language] | A collection of channels for talking in specific languages |
 
-### Detailed join instructions
-1. Start Minecraft Java Edition.
-1. Click "Multiplayer".
-1. Click "Add Server".
-1. Change "Server Name" to SpartaCraft.
-1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
-1. Click it to join and enjoy :)
+### Non-English language channels
 
-If you have any problem to access you can contact our support in our [Discord] server.
+- Chinese
+- Dutch
+- French
+- German
+- Japanese
+- Polish
+- Portuguese
+- Russian
+- Romainian
+- Spanish
+- Swedish
+- Turkish
+- Ukrainian
 
-{: .note }
-***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
+## Private messaging
 
-[Discord]: https://discord.gg/H9VNKH9tJC
+Send a private message with `/msg [player] [message]`. Quickly reply to last private message with `/r [message]`.
+
+## Ignoring players
+
+Sometimes a single player ruins chat. Instead of leaving the channel, you can ignore the individual player with `/ignore [player]`. All messages from the ignored player will be hidden until you `/unignore [player]`.
+
+## Commands summary
+
+| Command      | Description       | 
+|:-------------|:------------------|
+| /ch list     | List of channels  |
+| /ch join [channel]      | Join the specified channel |
+| /ch leave [channel]       | Leave the specified channel   |
+| /msg [player] [message]       | Send a private message to specified player      |
+| /r [message] | Quickly reply to last private message |
+| /ignore [player] | Ignore specified player |
+| /unignore [player] | Stop ignoring specified player |
+| /helpop [message] | Get support from some online staff |
+
+## Chat format
+
+The chat format in the global chat is as follows:
+
+***[channel] [townname│nationname] [rank] playername: message***

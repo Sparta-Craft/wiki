@@ -9,28 +9,29 @@ permalink: economy
 # Economy
 {: .fs-9 }
 
----
+The currency on server is based on gold ingots. 1 gold ingot is 1 unit of currency. The SpartaCraft economy is inflation resistant with efficient gold sinks. Gold is always in high demand which in turn creates a great gameplay experience and market environment. The large majority of items and services sold are provided by the players.
 
-{: .warning }
-> Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
+## Store your gold
+The safest place for gold is in own bank. To deposit, run `/bank deposit [amount]` and for withdraw run `/bank withdraw [amount]`.
 
-## How to join SpartaCraft
+Gold can also be deposited into the virtual town/nation bank. This will allow residents with appropriate permissions to withdraw gold and use it for town/nation expenses such as claiming. To deposit, run `/t deposit [amount]` or `/n deposit [amount]`. With withdraw, run `/t withdraw [amount]` or `/n withdraw [amount]`.
 
-Here you can find SpartaCraft server documentation, the most useful commands and a guide on how to get started on the server, on the left you will find an index where you can click to see more information.
+## How to get gold
+### Mining
 
-### Detailed join instructions
-1. Start Minecraft Java Edition.
-1. Click "Multiplayer".
-1. Click "Add Server".
-1. Change "Server Name" to SpartaCraft.
-1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
-1. Click it to join and enjoy :)
+The item-based currency allow players to dig it up straight from the ground. Gold ore is spread evenly across the world.
 
-If you have any problem to access you can contact our support in our [Discord] server.
+### Raiding
 
-{: .note }
-***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
+All town protections are removed when a town falls. Find abandoned towns and loot the riches. Stealing is allowed.
 
-[Discord]: https://discord.gg/H9VNKH9tJC
+### Voting
+
+Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites [link1] and [link2]. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
+
+### Shops
+
+Open a shop and sell items to other players. The only thing you need is stock, competitive pricing, and a good location. Hit a chest with the item you want to sell and follow the instructions. The most successful shops are built in capitals. Capitals have the benefit of attracting a lot of customers through the nation spawn. The shopping districts of capitals are usually one of the main sources of income for nations and players alike.
+
+[link1]: https://discord.gg/H9VNKH9tJC
+[link2]: https://discord.gg/H9VNKH9tJC
