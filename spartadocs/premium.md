@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Premium
-nav_order: 11
+nav_order: 13
 description: "Premium"
 permalink: premium
 ---

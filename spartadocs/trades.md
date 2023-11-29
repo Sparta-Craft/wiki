@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Nation Guide
-nav_order: 7
-description: "Nation Guide"
-permalink: nation-guide
+title: Trades
+nav_order: 12
+description: "Trades"
+permalink: trades
 ---
 
-# Nation Guide
+# Trades
 {: .fs-9 }
 
 ---

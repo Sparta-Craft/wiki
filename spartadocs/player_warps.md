@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Nation Guide
-nav_order: 7
-description: "Nation Guide"
-permalink: nation-guide
+title: Player Warps
+nav_order: 11
+description: "Player Warps"
+permalink: pwarps
 ---
 
-# Nation Guide
+# Player Warps
 {: .fs-9 }
 
 ---
