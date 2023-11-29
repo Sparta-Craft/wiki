@@ -27,5 +27,5 @@ Players underground, sneaking, or using invisibility potions are hidden from the
 
 The colorful squares represent claimed land belonging to a town or nation. Click a claim of your choice to get more information about which town/nation it belongs to. [Premium] players can change their nation claim color via `/n set mapcolor [color]` or town claim `/t set mapcolor [color]`.
 
-[Premium]: https://store.spartacraft.eu
-[map]: https://map.spartacraft.eu
+[Premium]: http://store.spartacraft.eu
+[map]: http://map.spartacraft.eu
