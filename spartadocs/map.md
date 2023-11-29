@@ -11,26 +11,21 @@ permalink: map
 
 ---
 
-{: .warning }
-> Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
+{: .tip }
+Location coordinates displayed in the map's top left corner correspond with in-game coordinates displayed by pressing the F3 key. This information can be used to navigate in-game.
 
-## How to join SpartaCraft
+After joining the server, the first thing you need to do is find out where you spawned. Run command `/map` and get a clickable map link in chat. You can also visit the default map by clicking the link [map] Scroll to zoom in. You can access the map rendered in ISO mode in the right hand side menu.
 
-Here you can find SpartaCraft server documentation, the most useful commands and a guide on how to get started on the server, on the left you will find an index where you can click to see more information.
+The map is regularly updated to reflect changes made inside the game. The map shows:
 
-### Detailed join instructions
-1. Start Minecraft Java Edition.
-1. Click "Multiplayer".
-1. Click "Add Server".
-1. Change "Server Name" to SpartaCraft.
-1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
-1. Click it to join and enjoy :)
+- All visible online players.
+- Changes made to the terrain.
+- Claimed land belonging to nations and towns.
+- Nation capitals.
 
-If you have any problem to access you can contact our support in our [Discord] server.
+Players underground, sneaking, or using invisibility potions are hidden from the map.
 
-{: .note }
-***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
+The colorful squares represent claimed land belonging to a town or nation. Click a claim of your choice to get more information about which town/nation it belongs to. [Premium] players can change their nation claim color via `/n set mapcolor [color]` or town claim `/t set mapcolor [color]`.
 
-[Discord]: https://discord.gg/H9VNKH9tJC
+[Premium]: https://store.spartacraft.eu
+[map]: https://map.spartacraft.eu

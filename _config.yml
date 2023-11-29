@@ -142,7 +142,10 @@ callouts:
     title: Important
     color: blue
   new:
-    title: New
+    title: Welcome
+    color: green
+  tip:
+    title: Tip
     color: green
   note:
     title: Note
