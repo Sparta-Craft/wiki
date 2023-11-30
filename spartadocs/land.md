@@ -9,7 +9,7 @@ permalink: claiming-land
 # How to claim land
 {: .fs-9 }
 
-<img src="/assets/images/chunk.png" alt="claim-chunk" width="100%" height="100%"/>
+<img src="/assets/images/chunk.png" alt="claim-chunk"/>
 
 Land is divided into claims. One claim is exactly 16x16 blocks and perfectly lines up with Minecraft chunks.
 

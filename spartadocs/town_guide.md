@@ -9,7 +9,7 @@ permalink: town-guide
 # Town Guide
 {: .fs-9 }
 
-<img src="/assets/images/town.jpeg" alt="town-image" width="100%" height="100%"/>
+<img src="/assets/images/town.jpeg" alt="town-image"/>
 
 {: .mt-5 }
 {: .caution }
