@@ -6,31 +6,32 @@ description: "Claiming Land"
 permalink: claiming-land
 ---
 
-# Claiming Land
+# How to claim land
 {: .fs-9 }
 
----
+<img src="/assets/images/chunk.png" alt="claim-chunk" width="100%" height="100%"/>
 
-{: .warning }
-> Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
+Land is divided into claims. One claim is exactly 16x16 blocks and perfectly lines up with Minecraft chunks.
 
-## How to join SpartaCraft
+***Claiming a chunk costs 25 gold. To claim a chunk:***
 
-Here you can find SpartaCraft server documentation, the most useful commands and a guide on how to get started on the server, on the left you will find an index where you can click to see more information.
+1. Join or create a [town].
+2. Have a town rank which is able to claim land, such as mayor (default rank for town founder). More on town ranks here.
+3. Deposit 25 or more gold via `/t deposit [amount]` to your town bank. All town expenses are paid through the town bank.
+4. Stand in a chunk you want to claim adjacent to a chunk the town already owns.
+5. Run command `/t claim`.
 
-### Detailed join instructions
-1. Start Minecraft Java Edition.
-1. Click "Multiplayer".
-1. Click "Add Server".
-1. Change "Server Name" to SpartaCraft.
-1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
-1. Click it to join and enjoy :)
+You successfully claim the chunk!
 
-If you have any problem to access you can contact our support in our [Discord] server.
+{: .tip }
+Press `F3+G keys` to view chunk borders in-game.
 
-{: .note }
-***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
+## Claim limits
 
-[Discord]: https://discord.gg/H9VNKH9tJC
+Your town can at first only claim 8 chunks. You can increase this number by 8 for every resident who joins. Your maximum amount of chunks can also increase through a nation bonus. This is an amount of max claimable chunks added to every town in a nation. It ranges from 10 extra chunks all the way to 140. It scales based on total residents in a nation. 10 chunks are from simply being in a nation. 140 is from having 50 residents in your whole nation.
+
+You can see how many chunks a town can claim by running `/t [name]`. This command will show general town information. Look for "Town Size", this shows a ratio between chunks a town already has claimed and the max amount of claims the town can claim to. For example, "Town size: 90/152" means that the given town has claimed 90 out of 152 chunks.
+
+Sometimes you will notice that a town has more chunks claimed than it's able to claim, for example "Town size: 90/60". This can happen if residents leave after the town has claimed certain amount of land. Towns do no lose their claims even if they no longer have enough residents.
+
+[town]: /town-guide

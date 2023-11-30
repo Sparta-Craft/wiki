@@ -11,6 +11,8 @@ permalink: economy
 
 The currency on server is based on gold ingots. 1 gold ingot is 1 unit of currency. The SpartaCraft economy is inflation resistant with efficient gold sinks. Gold is always in high demand which in turn creates a great gameplay experience and market environment. The large majority of items and services sold are provided by the players.
 
+<img src="/assets/images/economy.png" style="border-radius: 50%; margin-top: 25px;" alt="economy-image" width="10%" height="10%"/>
+
 ## Store your gold
 The safest place for gold is in own bank. To deposit, run `/bank deposit [amount]` and for withdraw run `/bank withdraw [amount]`.
 

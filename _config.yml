@@ -147,6 +147,9 @@ callouts:
   tip:
     title: Tip
     color: green
+  caution:
+    title: CAUTION
+    color: yellow
   note:
     title: Note
     color: purple
