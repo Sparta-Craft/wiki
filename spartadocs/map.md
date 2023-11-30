@@ -25,5 +25,5 @@ The colorful squares represent claimed land belonging to a town or nation. Click
 {: .tip }
 Location coordinates displayed in the map's top left corner correspond with in-game coordinates displayed by pressing the F3 key. This information can be used to navigate in-game.
 
-[Premium]: http://store.spartacraft.eu
-[map]: http://map.spartacraft.eu
+[Premium]: https://discord.gg/H9VNKH9tJC
+[map]: https://discord.gg/H9VNKH9tJC
