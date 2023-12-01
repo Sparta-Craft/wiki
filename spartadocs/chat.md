@@ -19,7 +19,7 @@ The chat is divided into channels, and you decide which ones to display. All cha
 |:-------------|:------------------|
 | /global      | General chat, where everyone talks English |
 | /local       | Only players in specified promixity can hear you   |
-| /trade       | Trading stuff, e.g. selling or buying announcements      |
+| /tradechat       | Trading stuff, e.g. selling or buying announcements      |
 | /vc or /vipchat | Special chat, exclusive for Premium players |
 | /tc or /townchat | Channel for town members |
 | /nc or /nationchat | Channel for nation members |
