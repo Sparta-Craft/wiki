@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Questions
+title: FAQ
 nav_order: 14
 description: "Frequently asked questions"
 permalink: faq
@@ -9,28 +9,20 @@ permalink: faq
 # Frequently Asked Questions
 {: .fs-9 }
 
----
+## Will you transfer data from an account to another account of mine?
+No, sorry. We never transfer data or ranks between player accounts. This is mainly a question of security. The only way we can verify your identity is through your Minecraft account. Contact Mojang support if you have lost access to your account.
 
-{: .warning }
-> Welcome to SpartaCraft, a ***Towny*** server for ***Minecraft Java Edition***. Create a town, join a nation and explore the map with your friends.
+## How do I apply for helper?
+You can apply at this <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">link</a>. We wish you luck and hope to see you in the staff team.
 
-## How to join SpartaCraft
+## Can I join on Bedrock Edition?
+This server only supports Minecraft Java Edition.
 
-Here you can find SpartaCraft server documentation, the most useful commands and a guide on how to get started on the server, on the left you will find an index where you can click to see more information.
+## Can I download the map?
+No, the map is not downloadable by players. Nor the seed of the world.
 
-### Detailed join instructions
-1. Start Minecraft Java Edition.
-1. Click "Multiplayer".
-1. Click "Add Server".
-1. Change "Server Name" to SpartaCraft.
-1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
-1. Click it to join and enjoy :)
+## How long will it take for my order to arrive?
+Payments usually arrive within approximately 30 minutes after purchase. If you do not receive the rank in 24 hours, please send us an <a href="mailto:contact@spartacraft.eu">email</a>.
 
-If you have any problem to access you can contact our support in our [Discord] server.
-
-{: .note }
-***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
-
-[Discord]: https://discord.gg/H9VNKH9tJC
+## I entered the wrong username on store checkout. What do I do?
+Thanks for the purchase! We can fix that easily if you <a href="mailto:contact@spartacraft.eu">email</a> with your Minecraft username.

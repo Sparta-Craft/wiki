@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Claiming Land
+title: Claiming
 nav_order: 6
 description: "Claiming Land"
 permalink: claiming-land
@@ -30,7 +30,7 @@ Press `F3+G keys` to view chunk borders in-game.
 
 Your town can at first only claim 8 chunks. You can increase this number by 8 for every resident who joins. Your maximum amount of chunks can also increase through a nation bonus. This is an amount of max claimable chunks added to every town in a nation. It ranges from 10 extra chunks all the way to 140. It scales based on total residents in a nation. 10 chunks are from simply being in a nation. 140 is from having 50 residents in your whole nation.
 
-You can see how many chunks a town can claim by running `/t [name]`. This command will show general town information. Look for "Town Size", this shows a ratio between chunks a town already has claimed and the max amount of claims the town can claim to. For example, "Town size: 90/152" means that the given town has claimed 90 out of 152 chunks.
+You can see how many chunks a town can claim by running `/t [name]`. This command will show general town information. Look for "Town Size", this shows a ratio between chunks a town already has claimed and the max amount of claims the town can claim to. For example, "Town size: 60/100" means that the given town has claimed 60 out of 100 chunks.
 
 Sometimes you will notice that a town has more chunks claimed than it's able to claim, for example "Town size: 90/60". This can happen if residents leave after the town has claimed certain amount of land. Towns do no lose their claims even if they no longer have enough residents.
 

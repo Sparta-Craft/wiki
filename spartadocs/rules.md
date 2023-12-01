@@ -133,7 +133,5 @@ Towns are not allowed to have areas of unclaimed chunks inside of their borders,
 Towns which are clearly created for no other reason than with the intent to block an existing town will also be removed.
 
 {: .discord }
-If you have any questions about the rules you can contact our support in our [Discord] server.
-
-[Discord]: https://discord.gg/H9VNKH9tJC
+If you have any questions about the rules you can contact our support in our <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">Discord</a> server.
 

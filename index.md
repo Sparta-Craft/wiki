@@ -28,9 +28,7 @@ Here you can find SpartaCraft server documentation, the most useful commands and
 1. Click on "Done" to add SpartaCraft on your server list.
 1. Click it to join and enjoy :)
 
-If you have any problem to access you can contact our support in our [Discord] server.
+If you have any problem to access you can contact our support in our <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">Discord</a> server.
 
 {: .note }
 ***SpartaCraft*** Java Edition server base version ***1.20.2*** and compatible with ***1.20.X***.
-
-[Discord]: https://discord.gg/H9VNKH9tJC

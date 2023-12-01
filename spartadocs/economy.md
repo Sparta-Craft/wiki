@@ -29,11 +29,8 @@ All town protections are removed when a town falls. Find abandoned towns and loo
 
 ### Voting
 
-Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites [link1] and [link2]. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
+Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">site1</a> and <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">site2</a>. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
 
 ### Shops
 
 Open a shop and sell items to other players. The only thing you need is stock, competitive pricing, and a good location. Hit a chest with the item you want to sell and follow the instructions. The most successful shops are built in capitals. Capitals have the benefit of attracting a lot of customers through the nation spawn. The shopping districts of capitals are usually one of the main sources of income for nations and players alike.
-
-[link1]: https://discord.gg/H9VNKH9tJC
-[link2]: https://discord.gg/H9VNKH9tJC

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Town Guide
+title: Town
 nav_order: 5
 description: "Town Guide"
 permalink: town-guide
 ---
 
-# Town Guide
+# Create a town
 {: .fs-9 }
 
 <img src="/assets/images/town.jpeg" alt="town-image"/>

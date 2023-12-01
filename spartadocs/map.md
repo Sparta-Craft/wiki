@@ -9,7 +9,7 @@ permalink: map
 # Live Map
 {: .fs-9 }
 
-After joining the server, the first thing you need to do is find out where you spawned. Run command `/map` and get a clickable map link in chat. You can also visit the default map by clicking the link [map] Scroll to zoom in. You can access the map rendered in ISO mode in the right hand side menu.
+After joining the server, the first thing you need to do is find out where you spawned. Run command `/map` and get a clickable map link in chat. You can also visit the default map by clicking the link <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">map</a> Scroll to zoom in. You can access the map rendered in ISO mode in the right hand side menu.
 
 The map is regularly updated to reflect changes made inside the game. The map shows:
 
@@ -25,5 +25,4 @@ The colorful squares represent claimed land belonging to a town or nation. Click
 {: .tip }
 Location coordinates displayed in the map's top left corner correspond with in-game coordinates displayed by pressing the F3 key. This information can be used to navigate in-game.
 
-[Premium]: https://discord.gg/H9VNKH9tJC
-[map]: https://discord.gg/H9VNKH9tJC
+[Premium]: /premium
