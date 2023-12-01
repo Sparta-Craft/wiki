@@ -92,10 +92,6 @@ Mayors can give ranks to residents with `/t rank add [player] [rank]`.
 
 - ***Councillor*** gives the player full access to town plots regardless of ownership, access to most town commands excluding `/t unclaim`, `/t set mayor <player>`, `/t delete`, etc. This rank should only be given to the most trusted citizens as it could be detrimental to your town. They can kick everyone except the mayor and other councillors, withdraw gold from the town bank and edit town/plot's permissions.
 
-- ***Trusted*** is very similar to the Councillor rank in that they can access any plot regardless of ownership, but they cannot use the most advanced commands as a councillor could.
-
-- ***Builders*** may access every plot not owned by an individual. They can build, open chests, use items and break blocks anywhere in the town as long as the plot is not owned by a player.
-
 - ***Settlers*** can claim chunks for the town with `/t claim`.
 
 - ***Recruiters*** are able to invite other players with `/t add [player]`.
