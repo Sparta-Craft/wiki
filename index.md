@@ -24,8 +24,8 @@ Here you can find SpartaCraft server documentation, the most useful commands and
 1. Click "Add Server".
 1. Change "Server Name" to SpartaCraft.
 1. Enter play.spartacraft.eu in the "Server Address" field.
-1. Set "Server Resource Packs" on Enabled.
-1. Click on "Done" to add SpartaCraft on your server list.
+1. Set "Server Resource Packs" to enable.
+1. Click on "Done" to add SpartaCraft to your server list.
 1. Click it to join and enjoy :)
 
 If you have any problem to access you can contact our support in our <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">Discord</a> server.
