@@ -4,6 +4,7 @@ layout: minimal
 parent: Layout
 has_children: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # A minimal layout page

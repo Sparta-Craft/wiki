@@ -5,6 +5,7 @@ parent: Code
 grand_parent: UI Components
 permalink: /docs/ui-components/code/line-numbers/
 nav_exclude: true
+search_exclude: true
 ---
 
 # Code snippets with line numbers

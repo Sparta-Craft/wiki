@@ -4,6 +4,7 @@ title: Buttons
 parent: UI Components
 nav_order: 2
 nav_exclude: true
+search_exclude: true
 ---
 
 # Buttons

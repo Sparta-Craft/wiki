@@ -4,6 +4,7 @@ title: Labels
 parent: UI Components
 nav_order: 3
 nav_exclude: true
+search_exclude: true
 ---
 
 # Labels

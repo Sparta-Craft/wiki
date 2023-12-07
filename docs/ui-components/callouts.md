@@ -4,6 +4,7 @@ title: Callouts
 parent: UI Components
 nav_order: 7
 nav_exclude: true
+search_exclude: true
 ---
 
 # Callouts

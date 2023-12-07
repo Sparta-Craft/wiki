@@ -4,6 +4,7 @@ title: Lists
 parent: UI Components
 nav_order: 5
 nav_exclude: true
+search_exclude: true
 ---
 
 # Lists

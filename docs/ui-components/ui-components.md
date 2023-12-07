@@ -5,6 +5,7 @@ nav_order: 3
 has_children: true
 permalink: /docs/ui-components
 nav_exclude: true
+search_exclude: true
 ---
 
 # UI Components

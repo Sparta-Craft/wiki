@@ -3,6 +3,7 @@ layout: default
 title: Configuration
 nav_order: 2
 nav_exclude: true
+search_exclude: true
 ---
 
 # Configuration
