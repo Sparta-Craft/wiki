@@ -9,7 +9,7 @@ permalink: premium
 # Premium
 {: .fs-9 }
 
-<a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">Here is the store page</a> if you're interested in purchasing premium.
+<a TARGET="_BLANK" href="https://store.spartacraft.eu">Here is the store page</a> if you're interested in purchasing premium.
 
 Premium is a paid rank designed to contribute to the server's funding and development, ensuring that thousands of players can enjoy the server for free. At SpartaCraft, we firmly believe in a fair gaming experience where players cannot pay for progress, setting us apart from most other servers. Gold, the server's currency, exclusively supports all aspects of progress within the server, making it impossible to purchase gold with real money. Instead, we offer convenience to those who choose to support the server through premium. Enjoy numerous convenient features that can enhance your SpartaCraft experience with premium.
 
@@ -45,6 +45,6 @@ Gold username in chat, ability to change chat name, join full server, tab list p
 
 ## Buy premium
 
-<a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">Click here to buy premium now</a>
+<a TARGET="_BLANK" href="https://store.spartacraft.eu/category/2562018">Click here to buy premium now</a>
 
 The price is in euro because SpartaCraft is operated from Europe. The one-month option is a legacy subscription that can be cancelled easily. Either through your PayPal dashboard or by clicking the cancellation link in the payment confirmation e-mail. We can also manually cancel it for you <a href="mailto:contact@spartacraft.eu">email</a>.

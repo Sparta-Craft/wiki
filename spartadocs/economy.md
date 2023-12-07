@@ -29,7 +29,7 @@ All town protections are removed when a town falls. Find abandoned towns and loo
 
 ### Voting
 
-Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">site1</a> and <a TARGET="_BLANK" href="https://discord.gg/H9VNKH9tJC">site2</a>. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
+Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites <a TARGET="_BLANK" href="https://minecraftservers.org/vote/657829">site1</a> and <a TARGET="_BLANK" href="https://servers-minecraft.net/server-spartacraft.26210">site2</a>. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
 
 ### Shops
 

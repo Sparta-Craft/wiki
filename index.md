@@ -2,7 +2,7 @@
 layout: default
 title: Welcome
 nav_order: 1
-description: "Home page spartacraft documentation"
+description: "Spartacraft server documentation"
 permalink: /
 ---
 
