@@ -25,7 +25,7 @@ Premium will give you access to a “large ender chest” which means your ender
 Nation kings can change their map territory color from the default color.Color options support different colors such as blue, yellow, red, green etc...
 
 ### Powerful cosmetics
-Gold username in chat, ability to change chat name, join full server, tab list priority and ability to use any item as hat.
+Gold username in chat, ability to change chat name, firework on join, join full server, tab list priority and ability to use any item as hat.
 
 ## Premium commands
 
