@@ -29,7 +29,7 @@ All town protections are removed when a town falls. Find abandoned towns and loo
 
 ### Voting
 
-Run the command `/vote` and click the provided links. You can vote right now by visiting the voting sites <a TARGET="_BLANK" href="https://shorturl.at/fKPW1">site1</a> and <a TARGET="_BLANK" href="https://shorturl.at/ajISU">site2</a>. You will receive a gold crate with a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in and can be claimed with `/cr claim`.
+Run the command `/vote` and click the provided link. You can vote right now by visiting the vote site <a TARGET="_BLANK" href="https://shorturl.at/fKPW1">here</a>. You will receive a random award of up to 64 gold ingots after successfully voting for the server. Keep in mind that you are able to vote without being online. Your award will be given to you next time you sign in.
 
 ### Shops
 
