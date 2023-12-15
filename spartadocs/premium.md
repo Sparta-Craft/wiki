@@ -32,6 +32,7 @@ Gold username in chat, ability to change chat name, firework on join, join full 
 |Command	|Description|
 |:-------------|:------------------|
 |/hat	|Use a held item as a hat|
+|/colors   |Change chat color |
 |/ptime    |Change the time (just for you)|
 |/pweather  |Change the weather (just for you)|
 |/nick [name] or /nick off	|Set your nickname or clear it|
